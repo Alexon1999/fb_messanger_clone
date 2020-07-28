@@ -1,0 +1,14 @@
+.message__card {
+  padding: 10px;
+  margin: 10px;
+  width: fit-content;
+  background-color: #e9e9eb !important;
+}
+
+.message__user {
+  /* if it's user's msg , it will push the msg card to rigtht */
+  margin-left: auto;
+  color: #fff !important;
+  text-align: left !important;
+  background-color: #0b81ff !important;
+}
